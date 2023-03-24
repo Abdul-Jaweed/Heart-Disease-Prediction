@@ -1,0 +1,304 @@
+,age,sex,cp,trestbps,chol,fbs,restecg,thalach,exang,oldpeak,slope,ca,thal,num
+0,Super Senior Citizens,Male,Stable,145,233,1,2,150,No,2.3,Downsloping,0,Fixed Defect,Absense
+1,Super Senior Citizens,Male,Variant,160,286,0,2,108,Yes,1.5,Flat,3,Normal,Presence
+2,Super Senior Citizens,Male,Variant,120,229,0,2,129,Yes,2.6,Flat,2,Reversable Defect,Presence
+3,Senior Citizens,Male,Microvascular,130,250,0,0,187,No,3.5,Downsloping,0,Normal,Absense
+4,Senior Citizens,Female,Unstable,130,204,0,2,172,No,1.4,Upsloping,0,Normal,Absense
+5,Senior Citizens,Male,Unstable,120,236,0,0,178,No,0.8,Upsloping,0,Normal,Absense
+6,Super Senior Citizens,Female,Variant,140,268,0,2,160,No,3.6,Downsloping,2,Normal,Presence
+7,Senior Citizens,Female,Variant,120,354,0,0,163,Yes,0.6,Upsloping,0,Normal,Absense
+8,Super Senior Citizens,Male,Variant,130,254,0,2,147,No,1.4,Flat,1,Reversable Defect,Presence
+9,Senior Citizens,Male,Variant,140,203,1,2,155,Yes,3.1,Downsloping,0,Reversable Defect,Presence
+10,Senior Citizens,Male,Variant,140,192,0,0,148,No,0.4,Flat,0,Fixed Defect,Absense
+11,Senior Citizens,Female,Unstable,140,294,0,2,153,No,1.3,Flat,0,Normal,Absense
+12,Senior Citizens,Male,Microvascular,130,256,1,2,142,Yes,0.6,Flat,1,Fixed Defect,Presence
+13,Senior Citizens,Male,Unstable,120,263,0,0,173,No,0.0,Upsloping,0,Reversable Defect,Absense
+14,Senior Citizens,Male,Microvascular,172,199,1,0,162,No,0.5,Upsloping,0,Reversable Defect,Absense
+15,Senior Citizens,Male,Microvascular,150,168,0,0,174,No,1.6,Upsloping,0,Normal,Absense
+16,Senior Citizens,Male,Unstable,110,229,0,0,168,No,1.0,Downsloping,0,Reversable Defect,Presence
+17,Senior Citizens,Male,Variant,140,239,0,0,160,No,1.2,Upsloping,0,Normal,Absense
+18,Senior Citizens,Female,Microvascular,130,275,0,0,139,No,0.2,Upsloping,0,Normal,Absense
+19,Senior Citizens,Male,Unstable,130,266,0,0,171,No,0.6,Upsloping,0,Normal,Absense
+20,Super Senior Citizens,Male,Stable,110,211,0,2,144,Yes,1.8,Flat,0,Normal,Absense
+21,Senior Citizens,Female,Stable,150,283,1,2,162,No,1.0,Upsloping,0,Normal,Absense
+22,Senior Citizens,Male,Unstable,120,284,0,2,160,No,1.8,Flat,0,Normal,Presence
+23,Senior Citizens,Male,Microvascular,132,224,0,2,173,No,3.2,Upsloping,2,Reversable Defect,Presence
+24,Super Senior Citizens,Male,Variant,130,206,0,2,132,Yes,2.4,Flat,2,Reversable Defect,Presence
+25,Senior Citizens,Female,Microvascular,120,219,0,0,158,No,1.6,Flat,0,Normal,Absense
+26,Senior Citizens,Female,Microvascular,120,340,0,0,172,No,0.0,Upsloping,0,Normal,Absense
+27,Super Senior Citizens,Female,Stable,150,226,0,0,114,No,2.6,Downsloping,0,Normal,Absense
+28,Senior Citizens,Male,Variant,150,247,0,0,171,No,1.5,Upsloping,0,Normal,Absense
+29,Senior Citizens,Male,Variant,110,167,0,2,114,Yes,2.0,Flat,0,Reversable Defect,Presence
+30,Super Senior Citizens,Female,Stable,140,239,0,0,151,No,1.8,Upsloping,2,Normal,Absense
+31,Super Senior Citizens,Male,Variant,117,230,1,0,160,Yes,1.4,Upsloping,2,Reversable Defect,Presence
+32,Super Senior Citizens,Male,Microvascular,140,335,0,0,158,No,0.0,Upsloping,0,Normal,Presence
+33,Senior Citizens,Male,Variant,135,234,0,0,161,No,0.5,Flat,0,Reversable Defect,Absense
+34,Senior Citizens,Male,Microvascular,130,233,0,0,179,Yes,0.4,Upsloping,0,Normal,Absense
+35,Senior Citizens,Male,Variant,140,226,0,0,178,No,0.0,Upsloping,0,Normal,Absense
+36,Senior Citizens,Male,Variant,120,177,0,2,120,Yes,2.5,Flat,0,Reversable Defect,Presence
+37,Senior Citizens,Male,Variant,150,276,0,2,112,Yes,0.6,Flat,1,Fixed Defect,Presence
+38,Senior Citizens,Male,Variant,132,353,0,0,132,Yes,1.2,Flat,1,Reversable Defect,Presence
+39,Super Senior Citizens,Male,Microvascular,150,243,1,0,137,Yes,1.0,Flat,0,Normal,Absense
+40,Super Senior Citizens,Female,Variant,150,225,0,2,114,No,1.0,Flat,3,Reversable Defect,Presence
+41,Senior Citizens,Male,Stable,140,199,0,0,178,Yes,1.4,Upsloping,0,Reversable Defect,Absense
+42,Super Senior Citizens,Female,Unstable,160,302,0,0,162,No,0.4,Upsloping,2,Normal,Absense
+43,Senior Citizens,Male,Microvascular,150,212,1,0,157,No,1.6,Upsloping,0,Normal,Absense
+44,Super Senior Citizens,Female,Variant,130,330,0,2,169,No,0.0,Upsloping,0,Normal,Presence
+45,Senior Citizens,Male,Microvascular,112,230,0,2,165,No,2.5,Flat,1,Reversable Defect,Presence
+46,Senior Citizens,Male,Microvascular,110,175,0,0,123,No,0.6,Upsloping,0,Normal,Absense
+47,Senior Citizens,Male,Variant,150,243,0,2,128,No,2.6,Flat,0,Reversable Defect,Presence
+48,Super Senior Citizens,Female,Microvascular,140,417,1,2,157,No,0.8,Upsloping,1,Normal,Absense
+49,Senior Citizens,Male,Microvascular,130,197,1,2,152,No,1.2,Downsloping,0,Normal,Absense
+50,Senior Citizens,Female,Unstable,105,198,0,0,168,No,0.0,Upsloping,1,Normal,Absense
+51,Super Senior Citizens,Male,Variant,120,177,0,0,140,No,0.4,Upsloping,0,Reversable Defect,Absense
+52,Senior Citizens,Male,Variant,112,290,0,2,153,No,0.0,Upsloping,1,Normal,Presence
+53,Senior Citizens,Male,Unstable,130,219,0,2,188,No,0.0,Upsloping,0,Normal,Absense
+54,Super Senior Citizens,Male,Variant,130,253,0,0,144,Yes,1.4,Upsloping,1,Reversable Defect,Presence
+55,Senior Citizens,Male,Variant,124,266,0,2,109,Yes,2.2,Flat,1,Reversable Defect,Presence
+56,Senior Citizens,Male,Microvascular,140,233,0,0,163,No,0.6,Flat,1,Reversable Defect,Presence
+57,Senior Citizens,Male,Variant,110,172,0,2,158,No,0.0,Upsloping,0,Reversable Defect,Presence
+58,Senior Citizens,Male,Microvascular,125,273,0,2,152,No,0.5,Downsloping,1,Normal,Absense
+59,Senior Citizens,Male,Stable,125,213,0,2,125,Yes,1.4,Upsloping,1,Normal,Absense
+60,Senior Citizens,Female,Variant,130,305,0,0,142,Yes,1.2,Flat,0,Reversable Defect,Presence
+61,Senior Citizens,Female,Microvascular,142,177,0,2,160,Yes,1.4,Downsloping,0,Normal,Absense
+62,Senior Citizens,Male,Variant,128,216,0,2,131,Yes,2.2,Flat,3,Reversable Defect,Presence
+63,Senior Citizens,Female,Microvascular,135,304,1,0,170,No,0.0,Upsloping,0,Normal,Absense
+64,Senior Citizens,Male,Variant,120,188,0,0,113,No,1.4,Flat,1,Reversable Defect,Presence
+65,Super Senior Citizens,Male,Variant,145,282,0,2,142,Yes,2.8,Flat,2,Reversable Defect,Presence
+66,Super Senior Citizens,Male,Microvascular,140,185,0,2,155,No,3.0,Flat,0,Normal,Presence
+67,Senior Citizens,Male,Microvascular,150,232,0,2,165,No,1.6,Upsloping,0,Reversable Defect,Absense
+68,Senior Citizens,Male,Variant,170,326,0,2,140,Yes,3.4,Downsloping,0,Reversable Defect,Presence
+69,Senior Citizens,Male,Microvascular,150,231,0,0,147,No,3.6,Flat,0,Normal,Presence
+70,Super Senior Citizens,Female,Microvascular,155,269,0,0,148,No,0.8,Upsloping,0,Normal,Absense
+71,Super Senior Citizens,Male,Variant,125,254,1,0,163,No,0.2,Flat,2,Reversable Defect,Presence
+72,Super Senior Citizens,Male,Variant,120,267,0,0,99,Yes,1.8,Flat,2,Reversable Defect,Presence
+73,Super Senior Citizens,Male,Variant,110,248,0,2,158,No,0.6,Upsloping,2,Fixed Defect,Presence
+74,Senior Citizens,Male,Variant,110,197,0,2,177,No,0.0,Upsloping,1,Normal,Presence
+75,Super Senior Citizens,Female,Microvascular,160,360,0,2,151,No,0.8,Upsloping,0,Normal,Absense
+76,Super Senior Citizens,Male,Variant,125,258,0,2,141,Yes,2.8,Flat,1,Reversable Defect,Presence
+77,Senior Citizens,Female,Microvascular,140,308,0,2,142,No,1.5,Upsloping,1,Normal,Absense
+78,Senior Citizens,Male,Unstable,130,245,0,2,180,No,0.2,Flat,0,Normal,Absense
+79,Senior Citizens,Male,Variant,150,270,0,2,111,Yes,0.8,Upsloping,0,Reversable Defect,Presence
+80,Senior Citizens,Male,Variant,104,208,0,2,148,Yes,3.0,Flat,0,Normal,Absense
+81,Senior Citizens,Female,Variant,130,264,0,2,143,No,0.4,Flat,0,Normal,Absense
+82,Senior Citizens,Male,Microvascular,140,321,0,2,182,No,0.0,Upsloping,0,Normal,Absense
+83,Super Senior Citizens,Male,Microvascular,180,274,1,2,150,Yes,1.6,Flat,0,Reversable Defect,Presence
+84,Senior Citizens,Male,Unstable,120,325,0,0,172,No,0.2,Upsloping,0,Normal,Absense
+85,Senior Citizens,Male,Microvascular,140,235,0,2,180,No,0.0,Upsloping,0,Normal,Absense
+86,Senior Citizens,Male,Microvascular,138,257,0,2,156,No,0.0,Upsloping,0,Normal,Absense
+87,Senior Citizens,Female,Microvascular,128,216,0,2,115,No,0.0,Upsloping,0,,Absense
+88,Senior Citizens,Female,Variant,138,234,0,2,160,No,0.0,Upsloping,0,Normal,Absense
+89,Senior Citizens,Female,Microvascular,130,256,0,2,149,No,0.5,Upsloping,0,Normal,Absense
+90,Super Senior Citizens,Male,Variant,120,302,0,2,151,No,0.4,Flat,0,Normal,Absense
+91,Super Senior Citizens,Female,Variant,160,164,0,2,145,No,6.2,Downsloping,3,Reversable Defect,Presence
+92,Super Senior Citizens,Male,Microvascular,130,231,0,0,146,No,1.8,Flat,3,Reversable Defect,Absense
+93,Senior Citizens,Female,Microvascular,108,141,0,0,175,No,0.6,Flat,0,Normal,Absense
+94,Super Senior Citizens,Female,Microvascular,135,252,0,2,172,No,0.0,Upsloping,0,Normal,Absense
+95,Senior Citizens,Male,Variant,128,255,0,0,161,Yes,0.0,Upsloping,1,Reversable Defect,Presence
+96,Senior Citizens,Male,Variant,110,239,0,2,142,Yes,1.2,Flat,1,Reversable Defect,Presence
+97,Super Senior Citizens,Female,Variant,150,258,0,2,157,No,2.6,Flat,2,Reversable Defect,Presence
+98,Senior Citizens,Male,Unstable,134,201,0,0,158,No,0.8,Upsloping,1,Normal,Absense
+99,Senior Citizens,Male,Variant,122,222,0,2,186,No,0.0,Upsloping,0,Normal,Absense
+100,Senior Citizens,Male,Variant,115,260,0,2,185,No,0.0,Upsloping,0,Normal,Absense
+101,Youngster,Male,Stable,118,182,0,2,174,No,0.0,Upsloping,0,Normal,Absense
+102,Senior Citizens,Female,Variant,128,303,0,2,159,No,0.0,Upsloping,1,Normal,Absense
+103,Super Senior Citizens,Female,Microvascular,110,265,1,2,130,No,0.0,Upsloping,1,Normal,Absense
+104,Senior Citizens,Male,Microvascular,120,188,0,0,139,No,2.0,Flat,3,Reversable Defect,Presence
+105,Senior Citizens,Male,Unstable,108,309,0,0,156,No,0.0,Upsloping,0,Reversable Defect,Absense
+106,Senior Citizens,Male,Variant,140,177,0,0,162,Yes,0.0,Upsloping,1,Reversable Defect,Presence
+107,Senior Citizens,Male,Microvascular,128,229,0,2,150,No,0.4,Flat,1,Reversable Defect,Presence
+108,Super Senior Citizens,Male,Variant,120,260,0,0,140,Yes,3.6,Flat,1,Reversable Defect,Presence
+109,Senior Citizens,Male,Variant,118,219,0,0,140,No,1.2,Flat,0,Reversable Defect,Presence
+110,Super Senior Citizens,Female,Variant,145,307,0,2,146,Yes,1.0,Flat,0,Reversable Defect,Presence
+111,Senior Citizens,Male,Variant,125,249,1,2,144,Yes,1.2,Flat,1,Normal,Presence
+112,Senior Citizens,Male,Stable,118,186,0,2,190,No,0.0,Flat,0,Fixed Defect,Absense
+113,Senior Citizens,Female,Variant,132,341,1,2,136,Yes,3.0,Flat,0,Reversable Defect,Presence
+114,Super Senior Citizens,Female,Microvascular,130,263,0,0,97,No,1.2,Flat,1,Reversable Defect,Presence
+115,Senior Citizens,Male,Unstable,135,203,0,0,132,No,0.0,Flat,0,Fixed Defect,Absense
+116,Senior Citizens,Male,Microvascular,140,211,1,2,165,No,0.0,Upsloping,0,Normal,Absense
+117,Senior Citizens,Female,Variant,138,183,0,0,182,No,1.4,Upsloping,0,Normal,Absense
+118,Super Senior Citizens,Male,Variant,130,330,1,2,132,Yes,1.8,Upsloping,3,Reversable Defect,Presence
+119,Super Senior Citizens,Male,Variant,135,254,0,2,127,No,2.8,Flat,1,Reversable Defect,Presence
+120,Senior Citizens,Male,Variant,130,256,1,2,150,Yes,0.0,Upsloping,2,Reversable Defect,Presence
+121,Super Senior Citizens,Female,Variant,150,407,0,2,154,No,4.0,Flat,3,Reversable Defect,Presence
+122,Senior Citizens,Male,Microvascular,100,222,0,0,143,Yes,1.2,Flat,0,Normal,Absense
+123,Senior Citizens,Male,Variant,140,217,0,0,111,Yes,5.6,Downsloping,0,Reversable Defect,Presence
+124,Super Senior Citizens,Male,Stable,138,282,1,2,174,No,1.4,Flat,1,Normal,Presence
+125,Senior Citizens,Female,Unstable,130,234,0,2,175,No,0.6,Flat,0,Normal,Absense
+126,Senior Citizens,Female,Variant,200,288,1,2,133,Yes,4.0,Downsloping,2,Reversable Defect,Presence
+127,Senior Citizens,Male,Variant,110,239,0,0,126,Yes,2.8,Flat,1,Reversable Defect,Presence
+128,Senior Citizens,Male,Unstable,120,220,0,0,170,No,0.0,Upsloping,0,Normal,Absense
+129,Super Senior Citizens,Female,Variant,124,209,0,0,163,No,0.0,Upsloping,0,Normal,Absense
+130,Senior Citizens,Male,Microvascular,120,258,0,2,147,No,0.4,Flat,0,Reversable Defect,Absense
+131,Senior Citizens,Male,Microvascular,94,227,0,0,154,Yes,0.0,Upsloping,1,Reversable Defect,Absense
+132,Youngster,Male,Unstable,130,204,0,2,202,No,0.0,Upsloping,0,Normal,Absense
+133,Senior Citizens,Male,Variant,140,261,0,2,186,Yes,0.0,Upsloping,0,Normal,Absense
+134,Senior Citizens,Female,Microvascular,122,213,0,0,165,No,0.2,Flat,0,Normal,Absense
+135,Senior Citizens,Female,Unstable,135,250,0,2,161,No,1.4,Flat,0,Normal,Absense
+136,Super Senior Citizens,Male,Variant,145,174,0,0,125,Yes,2.6,Downsloping,0,Reversable Defect,Presence
+137,Super Senior Citizens,Male,Unstable,120,281,0,2,103,No,1.4,Flat,1,Reversable Defect,Presence
+138,Senior Citizens,Male,Variant,120,198,0,0,130,Yes,1.6,Flat,0,Reversable Defect,Presence
+139,Senior Citizens,Male,Microvascular,125,245,1,2,166,No,2.4,Flat,0,Normal,Absense
+140,Senior Citizens,Male,Unstable,140,221,0,0,164,Yes,0.0,Upsloping,0,Normal,Absense
+141,Senior Citizens,Male,Stable,170,288,0,2,159,No,0.2,Flat,0,Reversable Defect,Presence
+142,Senior Citizens,Male,Unstable,128,205,1,0,184,No,0.0,Upsloping,0,Normal,Absense
+143,Super Senior Citizens,Male,Microvascular,125,309,0,0,131,Yes,1.8,Flat,0,Reversable Defect,Presence
+144,Senior Citizens,Male,Microvascular,105,240,0,2,154,Yes,0.6,Flat,0,Reversable Defect,Absense
+145,Senior Citizens,Male,Microvascular,108,243,0,0,152,No,0.0,Upsloping,0,Normal,Presence
+146,Senior Citizens,Male,Variant,165,289,1,2,124,No,1.0,Flat,3,Reversable Defect,Presence
+147,Senior Citizens,Male,Microvascular,112,250,0,0,179,No,0.0,Upsloping,0,Normal,Absense
+148,Senior Citizens,Male,Unstable,128,308,0,2,170,No,0.0,Upsloping,0,Normal,Absense
+149,Super Senior Citizens,Female,Microvascular,102,318,0,0,160,No,0.0,Upsloping,1,Normal,Absense
+150,Senior Citizens,Male,Stable,152,298,1,0,178,No,1.2,Flat,0,Reversable Defect,Absense
+151,Senior Citizens,Female,Variant,102,265,0,2,122,No,0.6,Flat,0,Normal,Absense
+152,Super Senior Citizens,Female,Microvascular,115,564,0,2,160,No,1.6,Flat,0,Reversable Defect,Absense
+153,Senior Citizens,Male,Variant,160,289,0,2,145,Yes,0.8,Flat,1,Reversable Defect,Presence
+154,Super Senior Citizens,Male,Variant,120,246,0,2,96,Yes,2.2,Downsloping,1,Normal,Presence
+155,Super Senior Citizens,Male,Variant,130,322,0,2,109,No,2.4,Flat,3,Normal,Presence
+156,Senior Citizens,Male,Variant,140,299,0,0,173,Yes,1.6,Upsloping,0,Reversable Defect,Presence
+157,Senior Citizens,Male,Variant,125,300,0,2,171,No,0.0,Upsloping,2,Reversable Defect,Presence
+158,Super Senior Citizens,Male,Variant,140,293,0,2,170,No,1.2,Flat,2,Reversable Defect,Presence
+159,Super Senior Citizens,Male,Microvascular,118,277,0,0,151,No,1.0,Upsloping,1,Reversable Defect,Absense
+160,Senior Citizens,Male,Unstable,101,197,1,0,156,No,0.0,Upsloping,0,Reversable Defect,Absense
+161,Super Senior Citizens,Male,Variant,125,304,0,2,162,Yes,0.0,Upsloping,3,Normal,Presence
+162,Senior Citizens,Female,Microvascular,110,214,0,0,158,No,1.6,Flat,0,Normal,Absense
+163,Senior Citizens,Female,Variant,100,248,0,2,122,No,1.0,Flat,0,Normal,Absense
+164,Senior Citizens,Male,Microvascular,124,255,1,0,175,No,0.0,Upsloping,2,Normal,Absense
+165,Senior Citizens,Male,Variant,132,207,0,0,168,Yes,0.0,Upsloping,0,Reversable Defect,Absense
+166,Senior Citizens,Male,Microvascular,138,223,0,0,169,No,0.0,Upsloping,-100000,Normal,Absense
+167,Senior Citizens,Female,Unstable,132,288,1,2,159,Yes,0.0,Upsloping,1,Normal,Absense
+168,Senior Citizens,Male,Variant,126,282,0,2,156,Yes,0.0,Upsloping,0,Reversable Defect,Presence
+169,Senior Citizens,Female,Unstable,112,160,0,0,138,No,0.0,Flat,0,Normal,Absense
+170,Super Senior Citizens,Male,Microvascular,160,269,0,0,112,Yes,2.9,Flat,1,Reversable Defect,Presence
+171,Senior Citizens,Male,Variant,142,226,0,2,111,Yes,0.0,Upsloping,0,Reversable Defect,Absense
+172,Senior Citizens,Female,Variant,174,249,0,0,143,Yes,0.0,Flat,0,Normal,Presence
+173,Super Senior Citizens,Female,Variant,140,394,0,2,157,No,1.2,Flat,0,Normal,Absense
+174,Super Senior Citizens,Male,Variant,145,212,0,2,132,No,2.0,Flat,2,Fixed Defect,Presence
+175,Senior Citizens,Male,Variant,152,274,0,0,88,Yes,1.2,Flat,1,Reversable Defect,Presence
+176,Senior Citizens,Male,Variant,108,233,1,0,147,No,0.1,Upsloping,3,Reversable Defect,Absense
+177,Senior Citizens,Male,Variant,132,184,0,2,105,Yes,2.1,Flat,1,Fixed Defect,Presence
+178,Senior Citizens,Male,Microvascular,130,315,0,0,162,No,1.9,Upsloping,1,Normal,Absense
+179,Senior Citizens,Male,Microvascular,130,246,1,2,173,No,0.0,Upsloping,3,Normal,Absense
+180,Senior Citizens,Male,Variant,124,274,0,2,166,No,0.5,Flat,0,Reversable Defect,Presence
+181,Senior Citizens,Female,Variant,134,409,0,2,150,Yes,1.9,Flat,2,Reversable Defect,Presence
+182,Senior Citizens,Male,Stable,148,244,0,2,178,No,0.8,Upsloping,2,Normal,Absense
+183,Senior Citizens,Male,Stable,178,270,0,2,145,No,4.2,Downsloping,0,Reversable Defect,Absense
+184,Super Senior Citizens,Female,Variant,158,305,0,2,161,No,0.0,Upsloping,0,Normal,Presence
+185,Super Senior Citizens,Female,Unstable,140,195,0,0,179,No,0.0,Upsloping,2,Normal,Absense
+186,Senior Citizens,Male,Microvascular,120,240,1,0,194,No,0.8,Downsloping,0,Reversable Defect,Absense
+187,Super Senior Citizens,Male,Unstable,160,246,0,0,120,Yes,0.0,Flat,3,Fixed Defect,Presence
+188,Senior Citizens,Male,Unstable,192,283,0,2,195,No,0.0,Upsloping,1,Reversable Defect,Presence
+189,Super Senior Citizens,Male,Microvascular,140,254,0,2,146,No,2.0,Flat,3,Reversable Defect,Presence
+190,Senior Citizens,Male,Microvascular,129,196,0,0,163,No,0.0,Upsloping,0,Normal,Absense
+191,Senior Citizens,Male,Variant,140,298,0,0,122,Yes,4.2,Flat,3,Reversable Defect,Presence
+192,Senior Citizens,Male,Variant,132,247,1,2,143,Yes,0.1,Flat,-100000,Reversable Defect,Presence
+193,Super Senior Citizens,Female,Variant,138,294,1,0,106,No,1.9,Flat,3,Normal,Presence
+194,Super Senior Citizens,Female,Microvascular,120,211,0,2,115,No,1.5,Flat,0,Normal,Absense
+195,Super Senior Citizens,Male,Variant,100,299,0,2,125,Yes,0.9,Flat,2,Normal,Presence
+196,Super Senior Citizens,Male,Stable,160,234,1,2,131,No,0.1,Flat,1,Normal,Absense
+197,Senior Citizens,Female,Variant,138,236,0,2,152,Yes,0.2,Flat,0,Normal,Absense
+198,Senior Citizens,Female,Unstable,120,244,0,0,162,No,1.1,Upsloping,0,Normal,Absense
+199,Senior Citizens,Male,Stable,160,273,0,2,125,No,0.0,Upsloping,0,Normal,Presence
+200,Senior Citizens,Female,Variant,110,254,0,2,159,No,0.0,Upsloping,0,Normal,Absense
+201,Super Senior Citizens,Female,Variant,180,325,0,0,154,Yes,0.0,Upsloping,0,Normal,Absense
+202,Senior Citizens,Male,Microvascular,150,126,1,0,173,No,0.2,Upsloping,1,Reversable Defect,Absense
+203,Super Senior Citizens,Female,Microvascular,140,313,0,0,133,No,0.2,Upsloping,0,Reversable Defect,Absense
+204,Senior Citizens,Male,Variant,110,211,0,0,161,No,0.0,Upsloping,0,Reversable Defect,Absense
+205,Senior Citizens,Male,Variant,142,309,0,2,147,Yes,0.0,Flat,3,Reversable Defect,Presence
+206,Senior Citizens,Male,Variant,128,259,0,2,130,Yes,3.0,Flat,2,Reversable Defect,Presence
+207,Senior Citizens,Male,Variant,144,200,0,2,126,Yes,0.9,Flat,0,Reversable Defect,Presence
+208,Senior Citizens,Male,Unstable,130,262,0,0,155,No,0.0,Upsloping,0,Normal,Absense
+209,Super Senior Citizens,Female,Variant,150,244,0,0,154,Yes,1.4,Flat,0,Normal,Presence
+210,Senior Citizens,Female,Microvascular,120,215,0,0,170,No,0.0,Upsloping,0,Normal,Absense
+211,Senior Citizens,Male,Stable,120,231,0,0,182,Yes,3.8,Flat,0,Reversable Defect,Presence
+212,Senior Citizens,Male,Microvascular,130,214,0,2,168,No,2.0,Flat,0,Normal,Absense
+213,Super Senior Citizens,Female,Variant,178,228,1,0,165,Yes,1.0,Flat,2,Reversable Defect,Presence
+214,Senior Citizens,Male,Variant,112,230,0,0,160,No,0.0,Upsloping,1,Normal,Presence
+215,Senior Citizens,Male,Stable,120,193,0,2,162,No,1.9,Flat,0,Reversable Defect,Absense
+216,Senior Citizens,Female,Unstable,105,204,0,0,172,No,0.0,Upsloping,0,Normal,Absense
+217,Senior Citizens,Female,Variant,138,243,0,2,152,Yes,0.0,Flat,0,Normal,Absense
+218,Super Senior Citizens,Female,Variant,130,303,0,0,122,No,2.0,Flat,2,Normal,Absense
+219,Senior Citizens,Male,Variant,138,271,0,2,182,No,0.0,Upsloping,0,Normal,Absense
+220,Senior Citizens,Female,Microvascular,112,268,0,2,172,Yes,0.0,Upsloping,0,Normal,Absense
+221,Senior Citizens,Female,Microvascular,108,267,0,2,167,No,0.0,Upsloping,0,Normal,Absense
+222,Senior Citizens,Female,Microvascular,94,199,0,0,179,No,0.0,Upsloping,0,Normal,Absense
+223,Senior Citizens,Male,Variant,123,282,0,0,95,Yes,2.0,Flat,2,Reversable Defect,Presence
+224,Super Senior Citizens,Female,Variant,108,269,0,0,169,Yes,1.8,Flat,2,Normal,Presence
+225,Youngster,Female,Unstable,118,210,0,0,192,No,0.7,Upsloping,0,Normal,Absense
+226,Senior Citizens,Male,Variant,112,204,0,0,143,No,0.1,Upsloping,0,Normal,Absense
+227,Super Senior Citizens,Female,Microvascular,152,277,0,0,172,No,0.0,Upsloping,1,Normal,Absense
+228,Senior Citizens,Male,Variant,110,206,0,2,108,Yes,0.0,Flat,1,Normal,Presence
+229,Super Senior Citizens,Male,Variant,112,212,0,2,132,Yes,0.1,Upsloping,1,Normal,Presence
+230,Senior Citizens,Female,Microvascular,136,196,0,2,169,No,0.1,Flat,0,Normal,Absense
+231,Senior Citizens,Female,Variant,180,327,0,1,117,Yes,3.4,Flat,0,Normal,Presence
+232,Senior Citizens,Male,Microvascular,118,149,0,2,126,No,0.8,Upsloping,3,Normal,Presence
+233,Super Senior Citizens,Female,Unstable,120,269,0,2,121,Yes,0.2,Upsloping,1,Normal,Absense
+234,Senior Citizens,Female,Microvascular,160,201,0,0,163,No,0.0,Upsloping,1,Normal,Absense
+235,Senior Citizens,Male,Variant,122,286,0,2,116,Yes,3.2,Flat,2,Normal,Presence
+236,Senior Citizens,Male,Variant,130,283,1,2,103,Yes,1.6,Downsloping,0,Reversable Defect,Presence
+237,Senior Citizens,Male,Variant,120,249,0,2,144,No,0.8,Upsloping,0,Reversable Defect,Presence
+238,Senior Citizens,Female,Unstable,134,271,0,0,162,No,0.0,Flat,0,Normal,Absense
+239,Senior Citizens,Male,Unstable,120,295,0,0,162,No,0.0,Upsloping,0,Normal,Absense
+240,Senior Citizens,Male,Unstable,110,235,0,0,153,No,0.0,Upsloping,0,Normal,Absense
+241,Senior Citizens,Female,Unstable,126,306,0,0,163,No,0.0,Upsloping,0,Normal,Absense
+242,Senior Citizens,Female,Variant,130,269,0,0,163,No,0.0,Upsloping,0,Normal,Absense
+243,Super Senior Citizens,Male,Stable,134,234,0,0,145,No,2.6,Flat,2,Normal,Presence
+244,Super Senior Citizens,Female,Microvascular,120,178,1,0,96,No,0.0,Upsloping,0,Normal,Absense
+245,Super Senior Citizens,Male,Variant,120,237,0,0,71,No,1.0,Flat,0,Normal,Presence
+246,Senior Citizens,Male,Variant,100,234,0,0,156,No,0.1,Upsloping,1,Reversable Defect,Presence
+247,Senior Citizens,Male,Variant,110,275,0,2,118,Yes,1.0,Flat,1,Normal,Presence
+248,Senior Citizens,Male,Variant,125,212,0,0,168,No,1.0,Upsloping,2,Reversable Defect,Presence
+249,Super Senior Citizens,Male,Unstable,128,208,1,2,140,No,0.0,Upsloping,0,Normal,Absense
+250,Senior Citizens,Male,Variant,110,201,0,0,126,Yes,1.5,Flat,0,Fixed Defect,Absense
+251,Senior Citizens,Male,Variant,146,218,0,0,105,No,2.0,Flat,1,Reversable Defect,Presence
+252,Super Senior Citizens,Male,Variant,128,263,0,0,105,Yes,0.2,Flat,1,Reversable Defect,Absense
+253,Senior Citizens,Female,Microvascular,120,295,0,2,157,No,0.6,Upsloping,0,Normal,Absense
+254,Senior Citizens,Male,Variant,115,303,0,0,181,No,1.2,Flat,0,Normal,Absense
+255,Senior Citizens,Female,Microvascular,120,209,0,0,173,No,0.0,Flat,0,Normal,Absense
+256,Super Senior Citizens,Female,Variant,106,223,0,0,142,No,0.3,Upsloping,2,Normal,Absense
+257,Super Senior Citizens,Female,Microvascular,140,197,0,1,116,No,1.1,Flat,0,Normal,Absense
+258,Super Senior Citizens,Male,Unstable,156,245,0,2,143,No,0.0,Upsloping,0,Normal,Absense
+259,Senior Citizens,Male,Unstable,124,261,0,0,141,No,0.3,Upsloping,0,Reversable Defect,Presence
+260,Senior Citizens,Female,Microvascular,118,242,0,0,149,No,0.3,Flat,1,Normal,Absense
+261,Senior Citizens,Female,Unstable,136,319,1,2,152,No,0.0,Upsloping,2,Normal,Presence
+262,Super Senior Citizens,Female,Stable,150,240,0,0,171,No,0.9,Upsloping,0,Normal,Absense
+263,Senior Citizens,Male,Microvascular,120,226,0,0,169,No,0.0,Upsloping,0,Normal,Absense
+264,Super Senior Citizens,Male,Variant,138,166,0,2,125,Yes,3.6,Flat,1,Normal,Presence
+265,Senior Citizens,Male,Variant,136,315,0,0,125,Yes,1.8,Flat,0,Fixed Defect,Presence
+266,Senior Citizens,Male,Variant,128,204,1,0,156,Yes,1.0,Flat,0,,Presence
+267,Senior Citizens,Male,Microvascular,126,218,1,0,134,No,2.2,Flat,1,Fixed Defect,Presence
+268,Senior Citizens,Male,Variant,152,223,0,0,181,No,0.0,Upsloping,0,Reversable Defect,Presence
+269,Senior Citizens,Male,Microvascular,130,180,0,0,150,No,0.0,Upsloping,0,Normal,Absense
+270,Super Senior Citizens,Male,Variant,140,207,0,2,138,Yes,1.9,Upsloping,1,Reversable Defect,Presence
+271,Super Senior Citizens,Male,Variant,160,228,0,2,138,No,2.3,Upsloping,0,Fixed Defect,Absense
+272,Senior Citizens,Male,Variant,140,311,0,0,120,Yes,1.8,Flat,2,Reversable Defect,Presence
+273,Super Senior Citizens,Female,Variant,112,149,0,0,125,No,1.6,Flat,0,Normal,Absense
+274,Senior Citizens,Male,Stable,134,204,0,0,162,No,0.8,Upsloping,2,Normal,Presence
+275,Super Senior Citizens,Male,Stable,170,227,0,2,155,No,0.6,Flat,0,Reversable Defect,Absense
+276,Super Senior Citizens,Female,Microvascular,146,278,0,2,152,No,0.0,Flat,1,Normal,Absense
+277,Senior Citizens,Female,Microvascular,138,220,0,0,152,No,0.0,Flat,0,Normal,Absense
+278,Senior Citizens,Male,Unstable,154,232,0,2,164,No,0.0,Upsloping,1,Normal,Presence
+279,Senior Citizens,Female,Variant,130,197,0,0,131,No,0.6,Flat,0,Normal,Absense
+280,Senior Citizens,Male,Variant,110,335,0,0,143,Yes,3.0,Flat,1,Reversable Defect,Presence
+281,Senior Citizens,Male,Microvascular,130,253,0,0,179,No,0.0,Upsloping,0,Normal,Absense
+282,Senior Citizens,Female,Variant,128,205,0,1,130,Yes,2.0,Flat,1,Reversable Defect,Presence
+283,Senior Citizens,Male,Unstable,122,192,0,0,174,No,0.0,Upsloping,0,Normal,Absense
+284,Super Senior Citizens,Male,Variant,148,203,0,0,161,No,0.0,Upsloping,1,Reversable Defect,Presence
+285,Senior Citizens,Male,Variant,114,318,0,1,140,No,4.4,Downsloping,3,Fixed Defect,Presence
+286,Senior Citizens,Female,Variant,170,225,1,2,146,Yes,2.8,Flat,2,Fixed Defect,Presence
+287,Senior Citizens,Male,Unstable,125,220,0,0,144,No,0.4,Flat,-100000,Reversable Defect,Absense
+288,Senior Citizens,Male,Unstable,130,221,0,2,163,No,0.0,Upsloping,0,Reversable Defect,Absense
+289,Senior Citizens,Male,Unstable,120,240,0,0,169,No,0.0,Downsloping,0,Normal,Absense
+290,Super Senior Citizens,Male,Microvascular,152,212,0,2,150,No,0.8,Flat,0,Reversable Defect,Presence
+291,Senior Citizens,Female,Unstable,132,342,0,0,166,No,1.2,Upsloping,0,Normal,Absense
+292,Senior Citizens,Male,Variant,120,169,0,0,144,Yes,2.8,Downsloping,0,Fixed Defect,Presence
+293,Super Senior Citizens,Male,Variant,140,187,0,2,144,Yes,4.0,Upsloping,2,Reversable Defect,Presence
+294,Super Senior Citizens,Female,Variant,124,197,0,0,136,Yes,0.0,Flat,0,Normal,Presence
+295,Senior Citizens,Male,Unstable,120,157,0,0,182,No,0.0,Upsloping,0,Normal,Absense
+296,Senior Citizens,Male,Variant,164,176,1,2,90,No,1.0,Flat,2,Fixed Defect,Presence
+297,Senior Citizens,Female,Variant,140,241,0,0,123,Yes,0.2,Flat,0,Reversable Defect,Presence
+298,Senior Citizens,Male,Stable,110,264,0,0,132,No,1.2,Flat,0,Reversable Defect,Presence
+299,Super Senior Citizens,Male,Variant,144,193,1,0,141,No,3.4,Flat,2,Reversable Defect,Presence
+300,Senior Citizens,Male,Variant,130,131,0,0,115,Yes,1.2,Flat,1,Reversable Defect,Presence
+301,Senior Citizens,Female,Unstable,130,236,0,2,174,No,0.0,Flat,1,Normal,Presence
+302,Senior Citizens,Male,Microvascular,138,175,0,0,173,No,0.0,Upsloping,-100000,Normal,Absense
