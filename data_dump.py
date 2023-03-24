@@ -5,8 +5,8 @@ import json
 client = pymongo.MongoClient("mongodb://localhost:27017")
 
 DATA_FILE_PATH = (r"data\heart.csv")
-DATABASE_NAME = "INSURANCE"
-COLLECTION_NAME = "INSURANCE_PROJECT"
+DATABASE_NAME = "HEART"
+COLLECTION_NAME = "HEART_PROJECT"
 
 
 if __name__=="__main__":
