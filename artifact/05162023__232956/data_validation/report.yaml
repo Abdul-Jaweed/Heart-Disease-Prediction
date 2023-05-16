@@ -1,0 +1,89 @@
+data_drift_within_test_dataset:
+  age:
+    pvalues: 0.46361040730114783
+    same_distribution: true
+  ca:
+    pvalues: 1.0
+    same_distribution: true
+  chol:
+    pvalues: 0.9218005443383666
+    same_distribution: true
+  cp:
+    pvalues: 1.0
+    same_distribution: true
+  exang:
+    pvalues: 0.9985899290432452
+    same_distribution: true
+  fbs:
+    pvalues: 1.0
+    same_distribution: true
+  num:
+    pvalues: 0.9990566404223704
+    same_distribution: true
+  oldpeak:
+    pvalues: 0.6171873184257032
+    same_distribution: true
+  restecg:
+    pvalues: 0.3732660274063012
+    same_distribution: true
+  sex:
+    pvalues: 0.9999999999999448
+    same_distribution: true
+  slope:
+    pvalues: 1.0
+    same_distribution: true
+  thal:
+    pvalues: 0.999999999999982
+    same_distribution: true
+  thalach:
+    pvalues: 0.8223926676935983
+    same_distribution: true
+  trestbps:
+    pvalues: 0.9997426431321615
+    same_distribution: true
+data_drift_within_train_dataset:
+  age:
+    pvalues: 0.9995669785348962
+    same_distribution: true
+  ca:
+    pvalues: 1.0
+    same_distribution: true
+  chol:
+    pvalues: 0.9999999985234482
+    same_distribution: true
+  cp:
+    pvalues: 1.0
+    same_distribution: true
+  exang:
+    pvalues: 1.0
+    same_distribution: true
+  fbs:
+    pvalues: 1.0
+    same_distribution: true
+  num:
+    pvalues: 1.0
+    same_distribution: true
+  oldpeak:
+    pvalues: 0.9999612539501274
+    same_distribution: true
+  restecg:
+    pvalues: 0.9986103936459014
+    same_distribution: true
+  sex:
+    pvalues: 1.0
+    same_distribution: true
+  slope:
+    pvalues: 1.0
+    same_distribution: true
+  thal:
+    pvalues: 1.0
+    same_distribution: true
+  thalach:
+    pvalues: 0.9999997753560989
+    same_distribution: true
+  trestbps:
+    pvalues: 1.0
+    same_distribution: true
+missing_values_within_base_dataset: []
+missing_values_within_test_dataset: []
+missing_values_within_train_dataset: []
