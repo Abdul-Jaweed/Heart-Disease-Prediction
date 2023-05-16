@@ -28,3 +28,16 @@ class ModelTrainerArtifact:
     model_path:str 
     accuracy_train_score:float 
     accuracy_test_score:float
+    
+    
+
+@dataclass
+class ModelEvaluationArtifact:
+    is_model_accepted:bool
+    improved_accuracy:float
+
+
+@dataclass
+class ModelPusherArtifact:
+    pusher_model_dir:str 
+    saved_model_dir:str
